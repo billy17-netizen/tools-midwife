@@ -2,7 +2,7 @@
 
 A modern web application that provides digital tools for midwives to enhance their professional practice efficiency and accuracy.
 
-![Tools Bidan Banner](./public/banner.png)
+![Tools Bidan Banner](https://raw.githubusercontent.com/billy17-netizen/tools-midwife/main/public/banner.png)
 
 ## Overview
 
